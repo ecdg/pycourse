@@ -1,2 +1,2 @@
 # pythoncourse
-Python exercises I have completed in a previously taken Python course.
+Containing this repository are Python exercises I have completed from a Python course.
